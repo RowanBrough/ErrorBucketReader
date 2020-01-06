@@ -1,0 +1,6 @@
+[
+  { "text": "Date Recieved", "value": "receivedatetime" },
+  { "text": "Transaction Id", "value": "transactionid", "sortable": false },
+  { "text": "Error", "value": "errordescription", "sortable": false },
+  { "text": "", "value": "data-table-expand" }
+]
